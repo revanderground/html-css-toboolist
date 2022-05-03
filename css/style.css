@@ -109,9 +109,9 @@ main{
 
   }
 
-  .buttonmini {
+  .pulsantino {
+    background-color: #23c8ff;
     padding-top: 20px;
-    background-color: #23c8ff; /* Blue */
     border: none;
     color: white;
     padding: 4px 8px;
@@ -120,3 +120,12 @@ main{
     cursor: pointer; 
 
   }
+
+
+  }
+.bazzurro{background-color: #23c8ff;} 
+.bviola {background-color: #8e05ea;} 
+.bverde {background-color: #1f8b72;}
+.bparancione {background-color: #ff9d00; }
+.bprosa {background-color: #c00144;} 
+.bolivastro {background-color: #b9ff15;} 
