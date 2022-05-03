@@ -4,31 +4,70 @@
     box-sizing: border-box;
 }
 
+
+/* header  */
+
 header{
-    background-color: rgb(255, 255, 255);
-    height: 80px; 
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .contenitore-header{
-    width: 90%;
+    width: 98%;
     margin: 0 auto;
     
 }
 
 .logo{
     height: 40px;
-    display:inline-block;
-    vertical-align:middle;
+   
+   
 }
 
 .titlelogo{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 50px;
-    display:inline-block;
-    vertical-align:middle;
+    
+  
+
 }
 
+/* main  */
+
 main{
-    background-color: rgb(203, 203, 203);
+    background-color: rgb(216, 216, 216);
+    padding-top: 40px;
+    padding-bottom: 40px;
+  
+
 }
+
+.containerbox{
+    width: 80%;
+    margin: 20px auto;
+}
+
+.box{
+    background-color: white;
+    border-radius: 10px;
+    height:800px
+}
+
+.centerboxnav{
+    width: 90%;
+    margin: 20px auto;
+    
+}
+
+.button {
+  
+    background-color: #23c8ff; /* Blue */
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
