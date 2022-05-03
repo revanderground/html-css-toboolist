@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    height: 80px; 
+}
+
+.contenitore-header{
+    width: 90%;
+    margin: 0 auto;
+    
+}
+
+.logo{
+    height: 40px;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+.titlelogo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+main{
+    background-color: rgb(203, 203, 203);
+}
