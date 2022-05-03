@@ -45,7 +45,7 @@ main{
 }
 
 .containerbox{
-    width: 80%;
+    width: 60%;
     margin: 20px auto;
  
 }
@@ -53,7 +53,7 @@ main{
 .box{
     background-color: white;
     border-radius: 10px;
-    height:800px
+    height:500px
     
 }
 
@@ -122,10 +122,10 @@ main{
   }
 
 
-  }
+
 .bazzurro{background-color: #23c8ff;} 
 .bviola {background-color: #8e05ea;} 
 .bverde {background-color: #1f8b72;}
-.bparancione {background-color: #ff9d00; }
-.bprosa {background-color: #c00144;} 
-.bolivastro {background-color: #b9ff15;} 
+.barancione {background-color: #ff9d00; }
+.brosa {background-color: #c00144;} 
+.bolivastro {background-color: #81b800;} 
