@@ -47,17 +47,20 @@ main{
 .containerbox{
     width: 80%;
     margin: 20px auto;
+ 
 }
 
 .box{
     background-color: white;
     border-radius: 10px;
     height:800px
+    
 }
 
 .centerboxnav{
     width: 90%;
-    margin: 20px auto;
+    margin: 6px auto;
+   
     
 }
 
@@ -70,16 +73,23 @@ main{
     border-radius: 4px;
     font-size: 16px;
     cursor: pointer;
-    margin-top:20px
+    margin-top:10px;
+
   }
 
   .button2 {
     padding-top: 20px;
     background-color: white; /* White*/
-    border: 2px solid lightgrey;
+    border: 1px solid lightgrey;
     color: lightgrey;
     padding: 8px 16px;
     border-radius: 4px;
     font-size: 16px;
     cursor: pointer;
+   
+  }
+
+  .linea{
+    background-color:beige );
+    height 1px;
   }
